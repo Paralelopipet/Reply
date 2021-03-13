@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(126,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(151,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(218,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\Reply\Reply\main.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
+  Reply.vcxproj -> C:\Users\DELL\source\repos\Reply\Debug\Reply.exe
